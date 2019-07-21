@@ -1,5 +1,0 @@
-C:\Users\dsai\source\HakerRank\JumpingOnClouds\bin\Debug\JumpingOnClouds.exe
-C:\Users\dsai\source\HakerRank\JumpingOnClouds\bin\Debug\JumpingOnClouds.pdb
-C:\Users\dsai\source\HakerRank\JumpingOnClouds\obj\Debug\JumpingOnClouds.csproj.CoreCompileInputs.cache
-C:\Users\dsai\source\HakerRank\JumpingOnClouds\obj\Debug\JumpingOnClouds.exe
-C:\Users\dsai\source\HakerRank\JumpingOnClouds\obj\Debug\JumpingOnClouds.pdb

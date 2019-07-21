@@ -1,3 +1,0 @@
-no. of socks : 7
-socks are : 10,10,20,30,40,50,10
-no. of pairs : 1
