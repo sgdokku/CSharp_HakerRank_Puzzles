@@ -1,0 +1,5 @@
+C:\Users\dsai\source\HakerRank\SockMerchant\bin\Debug\SockMerchant.exe
+C:\Users\dsai\source\HakerRank\SockMerchant\bin\Debug\SockMerchant.pdb
+C:\Users\dsai\source\HakerRank\SockMerchant\obj\Debug\SockMerchant.csproj.CoreCompileInputs.cache
+C:\Users\dsai\source\HakerRank\SockMerchant\obj\Debug\SockMerchant.exe
+C:\Users\dsai\source\HakerRank\SockMerchant\obj\Debug\SockMerchant.pdb
